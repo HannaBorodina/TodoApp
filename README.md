@@ -10,3 +10,7 @@ App's window:
 ![alt text](https://github.com/HannaBorodina/TodoApp/blob/master/Example_1.png)
 
 System tray:
+![alt text](https://github.com/HannaBorodina/TodoApp/blob/master/Example_2.png)
+
+Context menu:
+![alt text](https://github.com/HannaBorodina/TodoApp/blob/master/Example_3.png)
