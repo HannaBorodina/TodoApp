@@ -1,0 +1,30 @@
+﻿@model myApp.Models.Note
+@{
+}
+
+<h2>Detailes</h2>
+
+<fieldset>
+    <legend>Note</legend>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Text)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Text)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Details)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Details)
+    </div>
+
+</fieldset>
+@using (Html.BeginForm())
+{
+    <p> 
+        @Html.ActionLink("Back to List", "List")
+    </p>
+}
