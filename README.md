@@ -8,3 +8,5 @@ App lives in system tray.
 # Demo
 App's window:
 ![alt text](https://github.com/HannaBorodina/TodoApp/blob/master/Example_1.png)
+
+System tray:
