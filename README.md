@@ -12,8 +12,8 @@ App's window:
 
 System tray:
 
-![alt text](https://github.com/HannaBorodina/TodoApp/blob/master/Example_2.png)
+![alt text](https://github.com/HannaBorodina/TodoApp/blob/master/Example_3.png)
 
 Context menu:
 
-![alt text](https://github.com/HannaBorodina/TodoApp/blob/master/Example_3.png)
+![alt text](https://github.com/HannaBorodina/TodoApp/blob/master/Example_2.png)
