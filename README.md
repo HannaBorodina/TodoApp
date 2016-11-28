@@ -17,3 +17,7 @@ System tray:
 Context menu:
 
 ![alt text](https://github.com/HannaBorodina/TodoApp/blob/master/Example_2.png)
+
+#Pay attention
+
+App works with localhosts.
