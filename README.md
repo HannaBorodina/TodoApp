@@ -7,18 +7,12 @@ App lives in system tray.
 
 # Demo
 App's window:
-![alt text][logo]
-
-[logo] : https://github.com/HannaBorodina/TodoApp/blob/master/Example.png
+![alt text](https://github.com/HannaBorodina/TodoApp/blob/master/Example.png)
 
 System tray:
 
-![alt text][logo]
-
-[logo] : https://github.com/HannaBorodina/TodoApp/blob/master/Example_2.png
+![alt text](https://github.com/HannaBorodina/TodoApp/blob/master/Example_2.png)
 
 Context menu:
 
-![alt text][logo]
-
-[logo] : https://github.com/HannaBorodina/TodoApp/blob/master/Example_3.png
+![alt text](https://github.com/HannaBorodina/TodoApp/blob/master/Example_3.png)
